@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class Board : MonoBehaviour
@@ -10,7 +11,14 @@ public class Board : MonoBehaviour
     void Start()
     {
         SetupBoard();
+        MiFunction();
     }
+
+    private void MiFunction()
+    {
+        //este es mi cambio
+    }
+
     private void SetupBoard()
     {
         for (int x = 0; x < width; x++)
