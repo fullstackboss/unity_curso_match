@@ -148,9 +148,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9697adfa4153b4b75950eb2e5acb7208, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 5
-  height: 8
-  tileObject: {fileID: 1081338747761530373, guid: d059a1e475da245debdeb098da5db923, type: 3}
+  width: 6
+  height: 10
+  tileObject: {fileID: 8374548538396988493, guid: 6097743430e7047f48adb1d083a19092, type: 3}
+  cameraSizeOffset: 0
+  cameraVerticalOffset: 0
 --- !u!4 &386239105
 Transform:
   m_ObjectHideFlags: 0
