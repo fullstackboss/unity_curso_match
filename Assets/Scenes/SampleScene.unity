@@ -148,9 +148,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9697adfa4153b4b75950eb2e5acb7208, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 5
-  height: 8
-  tileObject: {fileID: 1081338747761530373, guid: d059a1e475da245debdeb098da5db923, type: 3}
+  width: 6
+  height: 10
+  tileObject: {fileID: 8374548538396988493, guid: 6097743430e7047f48adb1d083a19092, type: 3}
+  cameraSizeOffset: 0
+  cameraVerticalOffset: 0
+  availablePieces:
+  - {fileID: 3213022015839410476, guid: 48e9b71b51fbc459dbfbb3cb6c4feceb, type: 3}
+  - {fileID: 7006594703368064625, guid: 2444a1b1a247e4a66bf0e3dffd6f9066, type: 3}
+  - {fileID: 7768074625013996021, guid: 2d2db56c00b2d4351a9b56bc79b7c4fc, type: 3}
+  - {fileID: 3268179841646640346, guid: 516199bd071a840cba244ab49ede97ab, type: 3}
+  - {fileID: 7894828066409537029, guid: 065aaa76c65f9457b9952c6d6226f9c7, type: 3}
+  - {fileID: 6226975651099989422, guid: b8a2e6e0d410b4d1eb170ce1fcd055e4, type: 3}
+  - {fileID: 3226548753540974022, guid: ae4fab7019dd44926893006eb773381b, type: 3}
+  - {fileID: 8296688832057889406, guid: e29e86b2eca0549f794b46e621e2c91b, type: 3}
+  - {fileID: 595653411385852595, guid: aa5d44ca440804da0ad23cd50145a3db, type: 3}
+  - {fileID: 6483985402983900267, guid: 3f08860af65ec4ca3919a346e0949243, type: 3}
 --- !u!4 &386239105
 Transform:
   m_ObjectHideFlags: 0
